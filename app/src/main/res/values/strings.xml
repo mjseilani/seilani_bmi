@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bmi calculator seilani</string>
+    <string name="tv_weight">enter the desired weight</string>
+    <string name="tv_height">enter the desired height</string>
+    <string name="btn_resualt">Result</string>
+    <string name="btn_reset">Reset</string>
+    <string name="weight_hint">weight(kg)</string>
+    <string name="height_hint">height(cm)</string>
+</resources>
